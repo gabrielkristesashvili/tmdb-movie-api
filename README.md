@@ -1,1 +1,1 @@
-🔭 I’m currently working on [https://gabrielkristesashvili.github.io/tmdb-movie-api/](https://gabrielkristesashvili.github.io/tmdb-movie-api/)
+🔭You can check here -> [https://gabrielkristesashvili.github.io/tmdb-movie-api/](https://gabrielkristesashvili.github.io/tmdb-movie-api/)
