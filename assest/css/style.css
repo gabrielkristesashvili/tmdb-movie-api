@@ -579,6 +579,8 @@ body {
 .banner .heading {
     -webkit-line-clamp: 3;
     margin-block-end: 16px;
+    height: 135px;
+    overflow: hidden;
 }
 
 .banner .genre {
@@ -588,6 +590,8 @@ body {
 .banner-text {
     -webkit-line-clamp: 2;
     margin-block-end: 24px;
+    height: 135px;
+    overflow: hidden;
 }
 
 .banner .btn {
